@@ -1,0 +1,42 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body { padding-top: 51px; }
+
+
+.full-height {
+	height: 100%;
+}
+#map { 
+	height: 100%;
+}
+
+.custom-control {
+	
+}
+
+#map-locationBtn {
+	margin-left: 5px;
+}
+
+#map-searchBar {
+	margin: 5px;
+	max-width: 20vw;
+	min-width: 300px;
+}
+
+#search-menu {
+	opacity: 0.8;
+
+	margin: 5px;
+	margin-top: 39px;
+
+	max-height: 50vh;
+	max-width: 50vw;
+	min-width: 300px;
+
+	overflow: auto;
+}
